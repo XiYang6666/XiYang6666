@@ -10,12 +10,34 @@
 [![技术博客](https://img.shields.io/badge/Blog-blog.xiyang6666.top-2B7489?style=flat-square&logo=hexo)](https://blog.xiyang6666.top)
 [![GitHub](https://img.shields.io/github/followers/XiYang6666?label=Follow%20Me&style=social)](https://github.com/XiYang6666)
 
-## GitHub 统计
+## 统计
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XiYang6666&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=false&bg_color=00000000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiYang6666&layout=compact&langs_count=8&hide_border=false&size_weight=0.5&count_weight=0.5&bg_color=00000000" />
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://wakatime.com/@XiYang6666">
+        <img
+          src="https://github-readme-stats.vercel.app/api/wakatime?username=XiYang6666&layout=compact&hide_border=false&bg_color=00000000"
+          />
+      </a>
+    </td>
+    <td>
+      <a href=".">
+        <img
+          width=450
+          src="https://github-readme-stats.vercel.app/api?username=XiYang6666&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=00000000"
+        />
+      </a>
+      <br/>
+      <a href=".">
+        <img
+          width=450
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiYang6666&layout=donut&langs_count=8&hide_border=false&size_weight=0.5&count_weight=0.5&bg_color=00000000"
+          />
+      </a>
+    </td>
+  </tr>
+</table>
 
 # 主页访问量
 
