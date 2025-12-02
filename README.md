@@ -6,7 +6,7 @@
 
 [PGP public key](https://github.com/xiyang6666.gpg)
 
-[![个人网站](https://img.shields.io/badge/Website-xiyang666.top-2B7489?style=flat-square&logo=nuxt)](https://xiyang6666.top)
+[![个人网站](https://img.shields.io/badge/Website-xiyang6666.top-2B7489?style=flat-square&logo=nuxt)](https://xiyang6666.top)
 [![技术博客](https://img.shields.io/badge/Blog-blog.xiyang6666.top-2B7489?style=flat-square&logo=hexo)](https://blog.xiyang6666.top)
 [![GitHub](https://img.shields.io/github/followers/XiYang6666?label=Follow%20Me&style=social)](https://github.com/XiYang6666)
 
