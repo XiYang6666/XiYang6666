@@ -22,19 +22,15 @@
       </a>
     </td>
     <td>
-      <a href=".">
-        <img
-          width=450
-          src="https://github-readme-stats.vercel.app/api?username=XiYang6666&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=00000000"
-        />
-      </a>
+      <img
+         width=450
+        src="https://github-readme-stats.vercel.app/api?username=XiYang6666&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=00000000"
+      />
       <br/>
-      <a href=".">
-        <img
-          width=450
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiYang6666&layout=donut&langs_count=8&hide_border=false&size_weight=0.5&count_weight=0.5&bg_color=00000000"
-          />
-      </a>
+      <img
+        width=450
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiYang6666&layout=donut&langs_count=8&hide_border=false&size_weight=0.5&count_weight=0.5&bg_color=00000000"
+        />
     </td>
   </tr>
 </table>
