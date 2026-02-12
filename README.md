@@ -8,7 +8,7 @@
 
 [![个人主页](https://img.shields.io/badge/Homepage-xiyang6666.top-2B7489?style=flat-square&logo=nuxt)](https://www.xiyang6666.top)
 [![技术博客](https://img.shields.io/badge/Blog-blog.xiyang6666.top-2B7489?style=flat-square&logo=hexo)](https://blog.xiyang6666.top)
-[![粉丝站](https://img.shields.io/badge/Fanpage-mirror.shirosakihana.moe-2B7489?style=flat-square&logo=nuxt)](https://shirosakihana.moe)
+[![粉丝站](https://img.shields.io/badge/Fanpage-shirosakihana.moe-2B7489?style=flat-square&logo=nuxt)](https://shirosakihana.moe)
 [![镜像站](https://img.shields.io/badge/Mirror-mirror.shirosakihana.moe-2B7489?style=flat-square&logo=nuxt)](https://mirror.shirosakihana.moe)
 
 [![GitHub](https://img.shields.io/github/followers/XiYang6666?label=Follow%20Me&style=social)](https://github.com/XiYang6666)
