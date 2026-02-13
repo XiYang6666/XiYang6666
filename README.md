@@ -21,6 +21,7 @@
     <td>
       <a href="https://wakatime.com/@XiYang6666">
         <img
+          width=450
           src="https://fbik-github-readme-stats.vercel.app/api/wakatime?username=XiYang6666&layout=compact&hide_border=false&bg_color=00000000"
           />
       </a>
@@ -30,7 +31,7 @@
          width=450
         src="https://fbik-github-readme-stats.vercel.app/api?username=XiYang6666&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=00000000"
       />
-      <br/>
+      <p/>
       <img
         width=450
         src="https://fbik-github-readme-stats.vercel.app/api/top-langs/?username=XiYang6666&layout=donut&langs_count=8&hide_border=false&size_weight=0.5&count_weight=0.5&bg_color=00000000"
