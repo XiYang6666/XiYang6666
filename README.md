@@ -4,6 +4,8 @@
 
 <del>《天使降临到了我身边》忠实粉丝 | 小花厨 <del>
 
+[头像来源](https://www.pixiv.net/artworks/74040597)
+
 [PGP public key](https://github.com/xiyang6666.gpg)
 
 [![个人主页](https://img.shields.io/badge/Homepage-xiyang6666.top-2B7489?style=flat-square&logo=nuxt)](https://www.xiyang6666.top)
