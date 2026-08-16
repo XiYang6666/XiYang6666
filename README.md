@@ -1,4 +1,4 @@
-# 👋 你好，我是 XiYang6666 / HanaTaka2137
+## 👋 你好，我是 XiYang6666 / HanaTaka2137
 
 🎓 一名普通的高中生 | 🐍 Python 新手 | ⚡ Minecraft 插件开发小白
 
@@ -42,6 +42,6 @@
   </tr>
 </table>
 
-# 主页访问量
+## 主页访问量
 
 ![:name](https://count.getloli.com/@:xiyang6666)
