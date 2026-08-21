@@ -36,7 +36,7 @@
       <p/>
       <img
         width=450
-        src="https://fbik-github-readme-stats.vercel.app/api/top-langs/?username=XiYang6666&layout=donut&langs_count=8&hide_border=false&size_weight=0.5&count_weight=0.5&bg_color=00000000"
+        src="http://fbik-github-readme-stats.vercel.app/api/top-langs/?username=XiYang6666&layout=donut&langs_count=8&hide_border=false&size_weight=0.5&count_weight=0.5&bg_color=00000000&exclude_repo=u8g2-fusion-pixel-font"
         />
     </td>
   </tr>
